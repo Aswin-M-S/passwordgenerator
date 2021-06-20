@@ -4,6 +4,7 @@ import string
 num = int(input("enter the length of the password: "))
 
 def password_generaotr(num):
+    """ Password Generator """
     password = ""
     for n in range(num):
         x = random.randint(0,94)
