@@ -3,6 +3,7 @@ This is simple python program that can generate random password with user define
 
 
 ## output
+```
 enter the length of the password: 10
 KwL5sIV! !
-
+```
